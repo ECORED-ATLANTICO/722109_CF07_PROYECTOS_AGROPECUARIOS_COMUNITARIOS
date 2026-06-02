@@ -1,19 +1,11 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name:
+      'Gestión comunitaria, comunicación y manejo de riesgos en proyectos agropecuarios',
+    Description:
+      'El componente formativo fortalece habilidades para la concertación comunitaria, la comunicación efectiva, la negociación y la atención de riesgos en contextos rurales. Integra estrategias participativas, enfoque diferencial y gestión de la información para apoyar procesos organizativos y el desarrollo sostenible de proyectos agropecuarios comunitarios.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
   },
   menuPrincipal: {
     menu: [
@@ -64,6 +56,12 @@ export default {
         nombreRuta: 'tema5',
         numero: '5',
         titulo: 'Tema 5',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Tema 6',
         desarrolloContenidos: true,
       },
     ],
