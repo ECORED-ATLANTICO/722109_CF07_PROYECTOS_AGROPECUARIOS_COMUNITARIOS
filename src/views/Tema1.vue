@@ -118,7 +118,7 @@
     p.mb-5(data-aos="zoom-in-right") Este enfoque tiene en cuenta diferentes factores que influyen en las condiciones de vida y participación de las personas, entre ellos:
 
     .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
-      SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-4").p-2.rounded-3
+      SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4").p-2.rounded-3
         .tarjeta--color-color-primario-5.h-100
           .tarjeta--01.mb-4 
           h5.mb-3.text-center Género
