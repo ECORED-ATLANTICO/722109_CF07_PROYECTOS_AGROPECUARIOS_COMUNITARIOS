@@ -28,7 +28,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema2/img_3.png', class="img-fluid")
       .col-12.col-lg-9.mb-3.mb-lg-0
@@ -76,7 +76,7 @@
         figure
           img(src='@/assets/curso/tema2/img_7.png', class="img-fluid")
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-start.mb-0
       .col-12.col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema2/img_8.png', class="img-fluid")
@@ -116,19 +116,16 @@
       h5 Figura 1.
       |    Estructura del método de negociación
     figure(data-aos="flip-left").mb-5
-      img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-none d-lg-block").mb-3
-      img(src='@/assets/curso/tema2/img_12.svg', class="img-fluid d-block d-lg-none").mb-3
+      img(src='@/assets/curso/tema2/img_11.svg', class="img-fluid d-none d-lg-block", alt="La figura describe la estructura del método de negociación, representada en cinco pasos conectados, indicando un proceso continuo de planeación, comunicación, búsqueda de soluciones y establecimiento de acuerdos. Cada etapa incluye un ícono relacionado con el trabajo colaborativo y describe acciones orientadas a fortalecer la participación, el diálogo y la toma de decisiones conjuntas dentro de la comunidad.").mb-3
+      img(src='@/assets/curso/tema2/img_12.svg', class="img-fluid d-block d-lg-none", alt="La figura describe la estructura del método de negociación, representada en cinco pasos conectados, indicando un proceso continuo de planeación, comunicación, búsqueda de soluciones y establecimiento de acuerdos. Cada etapa incluye un ícono relacionado con el trabajo colaborativo y describe acciones orientadas a fortalecer la participación, el diálogo y la toma de decisiones conjuntas dentro de la comunidad.").mb-3
       figcaption Nota. SENA, (2026).
 
-    .row.justify-content-center.mb-0(data-aos="zoom-in-right")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .col-12.col-lg-10
-        .row.g-0.align-items-center
-          .col-2.col-lg-1.bloque-enlace__icono-col
-          .col-10.col-lg-11
-            .bloque-enlace
-              .bloque-enlace__contenido
-                p.mb-0 #[strong Nota:] la aplicación de estos métodos fortalece los procesos de concertación y participación comunitaria, contribuyendo al desarrollo de relaciones de cooperación y al logro de objetivos comunes en los proyectos agropecuarios comunitarios.
-              .bloque-enlace__accion
+        .bloque-enlace-1
+          .bloque-enlace-1__contenido
+            p.mb-0 #[strong Nota:] la aplicación de estos métodos fortalece los procesos de concertación y participación comunitaria, contribuyendo al desarrollo de relaciones de cooperación y al logro de objetivos comunes en los proyectos agropecuarios comunitarios.
+          .bloque-enlace-1__accion
 
     Separador
 
@@ -137,7 +134,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema2/img_13.png', class="img-fluid")
       .col-12.col-lg-9
@@ -244,34 +241,31 @@
         p.mb-0(data-aos="zoom-in-right") En los procesos comunitarios, la escucha activa permite:
 
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-12.col-lg-3.mb-3.mb-lg-0
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-3.mb-lg-3
         .tarjeta--color-color-primario-5.h-100(data-aos="zoom-in-right")
           .tarjeta--06.mb-4 
           p.mb-3.text-center #[strong Comprender las necesidades de la comunidad:] facilita la identificación de problemáticas, intereses y prioridades de los diferentes grupos poblacionales del territorio.
-      .col-12.col-lg-3.mb-3.mb-lg-0
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-3.mb-lg-3
         .tarjeta--color-color-primario-5.h-100(data-aos="zoom-in-right")
           .tarjeta--07.mb-4 
           p.mb-3.text-center #[strong Reducir conflictos:] promueve el diálogo y la comprensión mutua, ayudando a prevenir malentendidos y mejorar la convivencia entre las partes involucradas.
-      .col-12.col-lg-3.mb-3.mb-lg-0
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-3.mb-lg-3
         .tarjeta--color-color-primario-5.h-100(data-aos="zoom-in-right")
           .tarjeta--08.mb-4 
           p.mb-3.text-center #[strong Fortalecer la confianza entre los actores:] cuando las personas sienten que son escuchadas y valoradas, aumenta la confianza y la participación en los procesos organizativos y comunitarios.
-      .col-12.col-lg-3.mb-3.mb-lg-0
+      .col-12.col-md-6.col-lg-6.col-xl-3.mb-3.mb-lg-3
         .tarjeta--color-color-primario-5.h-100(data-aos="zoom-in-right")
           .tarjeta--09.mb-4 
           p.mb-3.text-center #[strong Facilitar la construcción de acuerdos:] la escucha activa contribuye a encontrar soluciones concertadas y tomar decisiones colectivas basadas en el respeto y la participación.
     
     p.mb-5(data-aos="zoom-in-right") Entre las principales prácticas de la escucha activa se encuentran mantener contacto visual, evitar distracciones, formular preguntas, confirmar la comprensión del mensaje y demostrar interés por las opiniones de los demás. Estas acciones fortalecen la comunicación efectiva y favorecen el trabajo colaborativo.
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in-right")
-      .col-12.col-lg-10
-        .row.g-0.align-items-center
-          .col-2.col-lg-1.bloque-enlace__icono-col
-          .col-10.col-lg-11
-            .bloque-enlace
-              .bloque-enlace__contenido
-                p.mb-0 #[strong Nota:] la escucha activa es una habilidad esencial para el liderazgo, la gestión comunitaria y el desarrollo de proyectos agropecuarios, ya que contribuye al fortalecimiento de las relaciones humanas, la participación social y la construcción colectiva de soluciones en el territorio.
-              .bloque-enlace__accion
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-right")
+      .col-12.col-lg-10 
+        .bloque-enlace-1
+          .bloque-enlace-1__contenido
+            p.mb-0 #[strong Nota:] la escucha activa es una habilidad esencial para el liderazgo, la gestión comunitaria y el desarrollo de proyectos agropecuarios, ya que contribuye al fortalecimiento de las relaciones humanas, la participación social y la construcción colectiva de soluciones en el territorio.
+          
 
     .row.justify-content-center.mb-0(data-aos="zoom-in-right")
       .col-12.col-lg-10

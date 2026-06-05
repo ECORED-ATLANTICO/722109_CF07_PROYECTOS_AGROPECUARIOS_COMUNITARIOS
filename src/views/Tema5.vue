@@ -79,7 +79,7 @@
     p.mb-5(data-aos="zoom-in-right") Entre los métodos de diligenciamiento de documentos más utilizados se encuentran:
 
     .row.justify-content-center.align-items-start.mb-0
-      .col-12.col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema5/img_6.png', class="img-fluid")
       .col-12.col-lg-9.mb-3.mb-lg-0(data-aos="flip-left")
@@ -87,23 +87,23 @@
           .tarjeta.color-secundario-10.p-5(titulo="Formatos de registro de actividades")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
-                p.mb-0 son documentos utilizados para registrar las acciones desarrolladas durante la ejecución del proyecto, incluyendo fechas, responsables, actividades realizadas y resultados obtenidos. Estos formatos permiten hacer seguimiento al avance de las actividades programadas.
+                p.mb-0 Son documentos utilizados para registrar las acciones desarrolladas durante la ejecución del proyecto, incluyendo fechas, responsables, actividades realizadas y resultados obtenidos. Estos formatos permiten hacer seguimiento al avance de las actividades programadas.
           .tarjeta.color-secundario-10.p-5(titulo="Listas de asistencia")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
-                p.mb-0 se emplean para registrar la participación de las personas en reuniones, capacitaciones, talleres, jornadas comunitarias y otras actividades. Las listas de asistencia permiten evidenciar la participación comunitaria y verificar la presencia de los asistentes.
+                p.mb-0 Se emplean para registrar la participación de las personas en reuniones, capacitaciones, talleres, jornadas comunitarias y otras actividades. Las listas de asistencia permiten evidenciar la participación comunitaria y verificar la presencia de los asistentes.
           .tarjeta.color-secundario-10.p-5(titulo="Actas de reunión")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
-                p.mb-0 corresponden a documentos donde se registran los temas tratados, acuerdos, decisiones y compromisos establecidos durante reuniones o espacios de concertación. Las actas facilitan el seguimiento de compromisos y fortalecen la organización comunitaria.
+                p.mb-0 Corresponden a documentos donde se registran los temas tratados, acuerdos, decisiones y compromisos establecidos durante reuniones o espacios de concertación. Las actas facilitan el seguimiento de compromisos y fortalecen la organización comunitaria.
           .tarjeta.color-secundario-10.p-5(titulo="Formularios de seguimiento")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
-                p.mb-0 son instrumentos utilizados para recopilar información relacionada con el cumplimiento de metas, indicadores, actividades y resultados del proyecto. Estos formularios facilitan el monitoreo y la evaluación de los procesos desarrollados.
+                p.mb-0 Son instrumentos utilizados para recopilar información relacionada con el cumplimiento de metas, indicadores, actividades y resultados del proyecto. Estos formularios facilitan el monitoreo y la evaluación de los procesos desarrollados.
           .tarjeta.color-secundario-10.p-5(titulo="Registros fotográficos")
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
-                p.mb-0 son imágenes o evidencias visuales que documentan actividades, avances, procesos productivos y resultados del proyecto. Los registros fotográficos complementan la información escrita y sirven como soporte para informes y procesos de verificación.
+                p.mb-0 Son imágenes o evidencias visuales que documentan actividades, avances, procesos productivos y resultados del proyecto. Los registros fotográficos complementan la información escrita y sirven como soporte para informes y procesos de verificación.
 
     Separador
 
@@ -163,7 +163,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_12.png', class="img-fluid")
       .col-12.col-lg-9
@@ -191,16 +191,14 @@
           .tarjeta--24.mb-4
           p.mb-3.text-center #[strong Análisis de resultados y recomendaciones:] corresponde a la interpretación de la información recopilada para identificar logros, dificultades, fortalezas y oportunidades de mejora. Además, permite formular recomendaciones que contribuyan al fortalecimiento y continuidad del proyecto.
 
-    .row.justify-content-center.mb-0(data-aos="zoom-in-right")
-      .col-12.col-lg-10
-        .row.g-0.align-items-center
-          .col-2.col-lg-1.bloque-enlace__icono-col
-          .col-10.col-lg-11
-            .bloque-enlace
-              .bloque-enlace__contenido
+   
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-right")
+      .col-12.col-lg-10 
+        .bloque-enlace-1
+          .bloque-enlace-1__contenido
                 p.mb-0 Los informes pueden elaborarse con diferentes propósitos, como seguimiento de actividades, rendición de cuentas, evaluación de resultados, control financiero o presentación de avances ante entidades e instituciones. Por esta razón, es importante adaptar el contenido y el lenguaje según el público al que se dirige el informe.
-              .bloque-enlace__accion
-
+          
     Separador
 
     #t_5_5.titulo-segundo.color-acento-contenido

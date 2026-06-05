@@ -8,7 +8,7 @@
       h1 Comunicación
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_1.png', class="img-fluid")
       .col-12.col-lg-10
@@ -38,7 +38,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 3.1 Principios
     .mb-0 
-
+    
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema3/img_3.png')
@@ -77,7 +77,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_6.png', class="img-fluid")
       .col-12.col-lg-9
@@ -110,7 +110,7 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-12.col-lg-12.mb-0
                 p.mb-0 Corresponde a recursos educativos como guías, cartillas, presentaciones, videos, infografías y material didáctico utilizados para facilitar procesos de formación y transmisión de conocimientos dentro de la comunidad.
-      .col-12.col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
+      .col-12.col-md-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema3/img_7.png', class="img-fluid")
 
@@ -121,7 +121,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_8.png', class="img-fluid")
       .col-12.col-lg-9
@@ -262,7 +262,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_22.png', class="img-fluid")
       .col-12.col-lg-9
@@ -395,7 +395,7 @@
         p.mb-0 La transmisión de conocimiento en los procesos comunitarios y agropecuarios constituye una estrategia fundamental para fortalecer las capacidades de las comunidades, promover la participación y facilitar el aprendizaje colectivo. Este proceso busca compartir saberes, experiencias y prácticas de manera comprensible y pertinente para las personas y grupos del territorio.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_35.png', class="img-fluid")
       .col-12.col-lg-9
@@ -439,7 +439,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_36.png', class="img-fluid")
       .col-12.col-lg-9
@@ -466,22 +466,29 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1
         p.mb-4(data-aos="zoom-in-right") En los procesos comunitarios y organizativos, el manejo adecuado del lenguaje corporal y verbal favorece:
-        .tarjeta-lista-img.mb-5(data-aos="fade-up")
-          .tarjeta-lista-img__contenido
-            ul.lista-ul.mb-0
-              li
-                i.lista-ul__vineta La confianza entre los participantes.
-              li
-                i.lista-ul__vineta La comprensión de los mensajes.
-              li
-                i.lista-ul__vineta La participación comunitaria.
-              li
-                i.lista-ul__vineta El liderazgo y la motivación.
-              li
-                i.lista-ul__vineta La resolución de conflictos y la concertación de acuerdos.
-          .tarjeta-lista-img__imagen
-            figure.mb-0
-              img(src='@/assets/curso/tema3/img_39.svg', alt='').img-fluid
+          .tarjeta.color-primario-10.p-4.rounded-4.mb-3.h-100.d-flex.align-items-center(data-aos="zoom-in-right")  
+            .row.justify-content-center.align-items-start.mb-0
+              .col-12.col-lg-10.col-xl-9.mb-3
+                ul.lista-ul.mb-0
+                  li
+                    i.lista-ul__vineta 
+                    span La confianza entre los participantes.
+                  li
+                    i.lista-ul__vineta 
+                    span La comprensión de los mensajes.
+                  li
+                    i.lista-ul__vineta 
+                    span La participación comunitaria.
+                  li
+                    i.lista-ul__vineta 
+                    span El liderazgo y la motivación.
+                  li
+                    i.lista-ul__vineta 
+                    span La resolución de conflictos y la concertación de acuerdos.
+              .col-3.col-lg-2.col-xl-3.mb-3.mb-lg-0(data-aos="zoom-in-left")
+                figure.mb-0
+                  img(src='@/assets/curso/tema3/img_39.svg', class="img-fluid")
+
         p.mb-0(data-aos="zoom-in-right") Además, es importante que exista coherencia entre el lenguaje verbal y el corporal, ya que esto fortalece la credibilidad y la transparencia en la comunicación. Cuando las palabras y las acciones transmiten el mismo mensaje, se generan relaciones más sólidas y procesos comunicativos más efectivos.
       .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure

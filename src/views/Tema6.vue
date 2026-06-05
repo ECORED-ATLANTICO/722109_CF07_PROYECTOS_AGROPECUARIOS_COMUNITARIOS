@@ -55,65 +55,87 @@
             td 
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Ejercicios de estiramiento
+                  i.lista-ul__vineta 
+                  span Ejercicios de estiramiento
                 li
-                  i.lista-ul__vineta Movilidad articular
+                  i.lista-ul__vineta 
+                  span Movilidad articular
                 li
-                  i.lista-ul__vineta Duración de 5 a 10 minutos
+                  i.lista-ul__vineta 
+                  span Duración de 5 a 10 minutos
                 li
-                  i.lista-ul__vineta Relajación muscular
+                  i.lista-ul__vineta 
+                  span Relajación muscular
             td 
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Mejora la circulación
+                  i.lista-ul__vineta 
+                  span Mejora la circulación
                 li
-                  i.lista-ul__vineta Reduce el estrés
+                  i.lista-ul__vineta 
+                  span Reduce el estrés
                 li
-                  i.lista-ul__vineta Previene lesiones osteomusculares
+                  i.lista-ul__vineta 
+                  span Previene lesiones osteomusculares
           tr
             td Higiene postural
             td Conjunto de prácticas orientadas a mantener posturas adecuadas durante las actividades laborales.
             td 
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Mantener la espalda recta.
+                  i.lista-ul__vineta 
+                  span Mantener la espalda recta.
                 li
-                  i.lista-ul__vineta Flexionar rodillas al cargar objetos
+                  i.lista-ul__vineta 
+                  span Flexionar rodillas al cargar objetos
                 li
-                  i.lista-ul__vineta Cambiar de postura frecuentemente.
+                  i.lista-ul__vineta 
+                  span Cambiar de postura frecuentemente.
                 li
-                  i.lista-ul__vineta Usar herramientas adecuadas.
+                  i.lista-ul__vineta 
+                  span Usar herramientas adecuadas.
             td 
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Reduce sobrecargas físicas.
+                  i.lista-ul__vineta 
+                  span Reduce sobrecargas físicas.
                 li
-                  i.lista-ul__vineta Previene dolores y lesiones musculares.
+                  i.lista-ul__vineta 
+                  span Previene dolores y lesiones musculares.
                 li
-                  i.lista-ul__vineta Mejora el bienestar laboral.
+                  i.lista-ul__vineta 
+                  span Mejora el bienestar laboral.
           tr
             td Elementos de protección personal (EPP)
             td Dispositivos y prendas utilizados para proteger al trabajador frente a riesgos laborales.
             td 
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Guantes
+                  i.lista-ul__vineta 
+                  span Guantes
                 li
-                  i.lista-ul__vineta Botas de seguridad
+                  i.lista-ul__vineta 
+                  span Botas de seguridad
                 li
-                  i.lista-ul__vineta Gafas protectoras
+                  i.lista-ul__vineta 
+                  span Gafas protectoras
                 li
-                  i.lista-ul__vineta Tapabocas o mascarillas
+                  i.lista-ul__vineta 
+                  span Tapabocas o mascarillas
                 li
-                  i.lista-ul__vineta Protección solar
+                  i.lista-ul__vineta 
+                  span Protección solar
             td 
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Disminuye accidentes laborales.
+                  i.lista-ul__vineta 
+                  span Disminuye accidentes laborales.
                 li
-                  i.lista-ul__vineta Reduce exposición a riesgos físicos, químicos y biológicos.
+                  i.lista-ul__vineta 
+                  span Reduce exposición a riesgos físicos, químicos y biológicos.
                 li
-                  i.lista-ul__vineta Protege la salud del trabajador.
+                  i.lista-ul__vineta 
+                  span Protege la salud del trabajador.
 
     .subtitulo-destacado.mb-5
       .subtitulo-destacado__icono
@@ -154,7 +176,7 @@
     p.mb-5(data-aos="zoom-in-right") Los proyectos agropecuarios comunitarios requieren la implementación de acciones orientadas al uso responsable de los recursos naturales y al fortalecimiento de prácticas sostenibles en el territorio. La protección del suelo, el agua, la biodiversidad y las condiciones del entorno contribuyen al desarrollo productivo, al bienestar de las comunidades y a la permanencia de las actividades agropecuarias a largo plazo.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema6/img_7.png', class="img-fluid")
       .col-12.col-lg-9
@@ -174,25 +196,25 @@
     p.mb-5(data-aos="zoom-in-right") Los proyectos agropecuarios requieren el cumplimiento de diferentes requerimientos ambientales orientados a proteger los recursos naturales y prevenir impactos negativos sobre el entorno. Estos requerimientos incluyen normas, permisos, prácticas de manejo y acciones de control relacionadas con el uso del agua, manejo de residuos, conservación del suelo, protección de la biodiversidad y aprovechamiento sostenible de los recursos naturales en las actividades productivas. Entre los requerimientos más importantes tenemos:
 
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-12.col-lg-3.mb-4(data-aos="zoom-in-right")
+      .col-12.col-lg-6.col-xl-3.mb-4(data-aos="zoom-in-right")
         .tarjeta-numerada.tarjeta-numerada--vertical.color-secundario-10.h-100
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
             figure
               img(src='@/assets/curso/tema6/img_8.svg', class="img-fluid") 
           p.mb-0.ps-3 #[strong Legales:] permisos ambientales, licencias y cumplimiento normativo. 
-      .col-12.col-lg-3.mb-4(data-aos="zoom-in-right")
+      .col-12.col-lg-6.col-xl-3.mb-4(data-aos="zoom-in-right")
         .tarjeta-numerada.tarjeta-numerada--vertical.color-secundario-10.h-100
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
             figure
               img(src='@/assets/curso/tema6/img_9.svg', class="img-fluid") 
           p.mb-0.ps-3 #[strong Técnicos:] manejo adecuado de residuos, agua y suelo. 
-      .col-12.col-lg-3.mb-4(data-aos="zoom-in-right")
+      .col-12.col-lg-6.col-xl-3.mb-4(data-aos="zoom-in-right")
         .tarjeta-numerada.tarjeta-numerada--vertical.color-secundario-10.h-100
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
             figure
               img(src='@/assets/curso/tema6/img_10.svg', class="img-fluid") 
           p.mb-0.ps-3 #[strong Sociales:] participación comunitaria y educación ambiental. 
-      .col-12.col-lg-3.mb-4(data-aos="zoom-in-right")
+      .col-12.col-lg-6.col-xl-3.mb-4(data-aos="zoom-in-right")
         .tarjeta-numerada.tarjeta-numerada--vertical.color-secundario-10.h-100
           .tarjeta-numerada__numero.d-flex.align-items-center.justify-content-center
             figure
@@ -210,18 +232,23 @@
         p.mb-3(data-aos="zoom-in-right") La gestión ambiental presenta características orientadas a la planificación, prevención y control de los impactos generados por las actividades humanas sobre el entorno. Se fundamenta en el uso sostenible de los recursos naturales, la participación comunitaria, el cumplimiento de normas ambientales y la implementación de prácticas responsables que favorecen la conservación del ambiente y el desarrollo sostenible de los territorios. Las características más relevantes son:
         .tarjeta.color-primario-5.py-4.p-5.rounded-3.mb-0.col-12.col-lg-8(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
-            .col-12.col-lg-10.order-2.order-lg-1.mb-0
+            .col-12.col-lg-10.order-2.order-lg-1.mb-3
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Preventiva más que correctiva. 
+                  i.lista-ul__vineta 
+                  span Preventiva más que correctiva. 
                 li
-                  i.lista-ul__vineta Participativa e incluyente. 
+                  i.lista-ul__vineta 
+                  span Participativa e incluyente. 
                 li
-                  i.lista-ul__vineta Basada en la sostenibilidad. 
+                  i.lista-ul__vineta 
+                  span Basada en la sostenibilidad. 
                 li
-                  i.lista-ul__vineta Enfocada en el uso eficiente de recursos. 
+                  i.lista-ul__vineta 
+                  span Enfocada en el uso eficiente de recursos. 
                 li
-                  i.lista-ul__vineta Articulada con la normatividad vigente. 
+                  i.lista-ul__vineta 
+                  span Articulada con la normatividad vigente. 
             .col-4.col-lg-2.order-2.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure.me-5.me-lg-0
                 img(src='@/assets/curso/tema6/img_12.svg', class="img-fluid").me-5.me-lg-0

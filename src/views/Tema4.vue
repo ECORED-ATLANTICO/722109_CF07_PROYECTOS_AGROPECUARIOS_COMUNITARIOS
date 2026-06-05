@@ -8,7 +8,7 @@
       h1 Ruta de atención de riesgos
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema4/img_1.png', class="img-fluid")
       .col-12.col-lg-9
@@ -64,7 +64,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema4/img_9.png', class="img-fluid")
       .col-12.col-lg-9
@@ -117,8 +117,9 @@
       h5 Figura 2.
       |    Etapas del protocolo de atención de riesgos
     figure(data-aos="flip-left").mb-0
-      img(src='@/assets/curso/tema4/img_12.svg', class="img-fluid d-none d-lg-block").mb-3
-      img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid d-block d-lg-none").mb-3
+      figcaption Nota. SENA, (2026).
+      img(src='@/assets/curso/tema4/img_12.svg', class="img-fluid d-none d-lg-block", alt="La figura describe las etapas del protocolo deAtención de riesgos, la cual está compuestapor cinco módulos conectados:  identificación del riesgo, la evaluación del riesgo, la notificación, la implementación de medidas de respuesta y por último el seguimiento y evaluación. La secuencia indica el proceso continuo de reconocer riesgos, analizarlos, comunicar la situación, aplicar medidas de control y realizar seguimiento para mejorar la gestión del riesgo.").mb-3
+      img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid d-block d-lg-none", alt="La figura describe las etapas del protocolo deAtención de riesgos, la cual está compuestapor cinco módulos conectados:  identificación del riesgo, la evaluación del riesgo, la notificación, la implementación de medidas de respuesta y por último el seguimiento y evaluación. La secuencia indica el proceso continuo de reconocer riesgos, analizarlos, comunicar la situación, aplicar medidas de control y realizar seguimiento para mejorar la gestión del riesgo.").mb-3
       figcaption Nota. SENA, (2026).
 
     Separador
@@ -140,7 +141,7 @@
 
     p.mb-5(data-aos="zoom-in-right") Entre los principales aspectos que pueden incluir los protocolos de seguridad se encuentran:
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-start.mb-0
       .col-12.col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema4/img_15.png', class="img-fluid")
@@ -167,11 +168,14 @@
             .col-12.col-lg-9.order-2.order-lg-1.mb-0
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Identificar peligros y evaluar riesgos presentes en las actividades comunitarias y productivas.
+                  i.lista-ul__vineta 
+                  span Identificar peligros y evaluar riesgos presentes en las actividades comunitarias y productivas.
                 li
-                  i.lista-ul__vineta Implementar medidas de prevención y control.
+                  i.lista-ul__vineta 
+                  span Implementar medidas de prevención y control.
                 li
-                  i.lista-ul__vineta Proteger la salud e integridad física de las personas.
+                  i.lista-ul__vineta 
+                  span Proteger la salud e integridad física de las personas.
             .col-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema4/img_16.svg', class="img-fluid")
@@ -181,13 +185,17 @@
             .col-12.col-lg-9.order-2.order-lg-1.mb-0
               ul.lista-ul.mb-0
                 li
-                  i.lista-ul__vineta Establecer protocolos de actuación ante emergencias.
+                  i.lista-ul__vineta 
+                  span Establecer protocolos de actuación ante emergencias.
                 li
-                  i.lista-ul__vineta Promover ambientes de trabajo seguros.
+                  i.lista-ul__vineta 
+                  span Promover ambientes de trabajo seguros.
                 li
-                  i.lista-ul__vineta Registrar y reportar incidentes o accidentes.
+                  i.lista-ul__vineta 
+                  span Registrar y reportar incidentes o accidentes.
                 li
-                  i.lista-ul__vineta Fortalecer la cultura de prevención y autocuidado.
+                  i.lista-ul__vineta 
+                  span Fortalecer la cultura de prevención y autocuidado.
             .col-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema4/img_17.svg', class="img-fluid")
