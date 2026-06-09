@@ -8,7 +8,7 @@
         .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
           .bloque-texto-t__img.mb-0
             img(src='@/assets/curso/sintesis/img_1.png')
-          .bloque-texto-t__texto.col-10.mb-0
+          .bloque-texto-t__texto.col-12.col-md-10.col-lg-10.mb-0
             p.mb-0 El componente formativo “Gestión comunitaria, comunicación y manejo de riesgos en proyectos agropecuarios” aborda los fundamentos conceptuales, metodológicos y prácticos necesarios para fortalecer los procesos de participación, comunicación, concertación y gestión organizativa en contextos rurales y comunitarios. En este componente se desarrollan temas relacionados con la gestión comunitaria con enfoque territorial y diferencial, técnicas de negociación, estrategias de comunicación y participación, manejo de riesgos, protocolos de atención y seguridad, así como procesos de gestión de la información. Además, se estudian herramientas para la elaboración de informes, registros productivos y mecanismos de seguimiento de actividades comunitarias y agropecuarias.
         
     .row.justify-content-center.align-items-center.mb-5
