@@ -10,7 +10,7 @@
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema1/img_1.png')
-      .bloque-texto-t__texto.col-10.mb-0
+      .bloque-texto-t__texto.col-12.col-md-10.col-lg-10.mb-0
         p.mb-0 La gestión comunitaria con enfoque territorial y diferencial fortalece la participación de las comunidades en la identificación de necesidades, la toma de decisiones y la construcción de acciones colectivas para el desarrollo rural. Este tema aborda la concertación de acciones y la implementación de estrategias participativas, reconociendo las características sociales, culturales y territoriales de las comunidades mediante la aplicación del enfoque diferencial.
 
     Separador
@@ -85,8 +85,8 @@
     p.mb-5(data-aos="zoom-in-right") Dentro de las principales estrategias para el desarrollo de componentes se encuentran las siguientes:
 
     .tarjeta.tarjeta--fondo-img-2.py-5.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
-      .tarjeta.tarjeta--blanca.py-5.p-4.mb-0
-        LineaTiempoC.color-acento-botones(text-small).mb-0
+      .tarjeta.tarjeta--blanca.py-5.p-2.mb-0
+        LineaTiempoC.color-acento-botones.mb-0
           .row.justify-content-center.align-items-center(titulo="Fortalecimiento de capacidades ")
             .col-10.mb-0
               p.mb-0 Consiste en desarrollar conocimientos, habilidades y competencias en los miembros de la comunidad mediante procesos de formación, capacitación y acompañamiento técnico. Esta estrategia promueve la participación, el liderazgo comunitario y la apropiación de los proyectos por parte de la población beneficiaria.

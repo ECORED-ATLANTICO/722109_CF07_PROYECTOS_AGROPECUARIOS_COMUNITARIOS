@@ -39,10 +39,10 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-right")
       .col-12.col-lg-10
         .row.g-0.align-items-center
-          .col-2.col-lg-1.bloque-enlace__icono-col
+          .col-2.col-lg-2.col-xl-2.bloque-enlace__icono-col
             figure.mb-0
               img(src='@/assets/curso/tema2/img_4.svg', alt='').img-fluid
-          .col-10.col-lg-11
+          .col-10.col-lg-10.col-xl-10
             .bloque-enlace
               .bloque-enlace__contenido
                 h5.mb-1 Comunicación asertiva.
@@ -101,7 +101,7 @@
     .bloque-texto-t.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema2/img_9.png')
-      .bloque-texto-t__texto.col-10.mb-0
+      .bloque-texto-t__texto.col-12.col-md-10.col-lg-10.mb-0
         p.mb-0 Para desarrollar un proceso de negociación efectivo es necesario aplicar métodos y estrategias que faciliten el diálogo, la comprensión de las necesidades de las partes y la construcción de acuerdos sostenibles. Los métodos de negociación permiten organizar el proceso de comunicación, reducir conflictos y mejorar la toma de decisiones en los proyectos agropecuarios comunitarios.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -236,7 +236,8 @@
         figure
           img(src='@/assets/curso/tema2/img_20.png', class="img-fluid")
       .col-12.col-lg-9
-        p.mb-3(data-aos="zoom-in-right") La escucha activa es una habilidad de comunicación que consiste en prestar atención de manera consciente, respetuosa y comprensiva a lo que otra persona expresa, tanto de forma verbal como no verbal. Esta habilidad implica escuchar con interés, interpretar adecuadamente el mensaje y demostrar empatía hacia las opiniones, sentimientos y necesidades del interlocutor.
+        .tarjeta.tarjeta--fondo-img-1.py-4.p-5.rounded-3.mb-3(data-aos="zoom-in-right")
+          p.mb-0 La escucha activa es una habilidad de comunicación que consiste en prestar atención de manera consciente, respetuosa y comprensiva a lo que otra persona expresa, tanto de forma verbal como no verbal. Esta habilidad implica escuchar con interés, interpretar adecuadamente el mensaje y demostrar empatía hacia las opiniones, sentimientos y necesidades del interlocutor.
         p.mb-3(data-aos="zoom-in-right") En los procesos comunitarios y en los proyectos agropecuarios, la escucha activa es fundamental para fortalecer la participación, mejorar la comunicación y construir relaciones basadas en la confianza y el respeto mutuo. A través de esta habilidad, los líderes comunitarios, organizaciones e instituciones pueden comprender mejor las problemáticas, expectativas y propuestas de las comunidades rurales. La escucha activa no se limita únicamente a oír las palabras de otra persona, sino que también requiere observar gestos, tono de voz, actitudes y emociones que acompañan el mensaje. Asimismo, implica evitar interrupciones, mostrar disposición al diálogo y responder de manera clara y respetuosa.
         p.mb-0(data-aos="zoom-in-right") En los procesos comunitarios, la escucha activa permite:
 

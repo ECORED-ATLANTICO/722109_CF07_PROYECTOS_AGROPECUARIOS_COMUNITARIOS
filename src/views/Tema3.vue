@@ -18,10 +18,10 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-right")
       .col-12.col-lg-10
         .row.g-0.align-items-center
-          .col-2.col-lg-1.bloque-enlace__icono-col
+          .col-2.col-lg-2.bloque-enlace__icono-col
             figure.mb-0
               img(src='@/assets/curso/tema2/img_4.svg', alt='').img-fluid
-          .col-10.col-lg-11
+          .col-10.col-lg-10
             .bloque-enlace
               .bloque-enlace__contenido
                 h5.mb-1 Comunicación
@@ -42,7 +42,7 @@
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema3/img_3.png')
-      .bloque-texto-t__texto.col-10.mb-0
+      .bloque-texto-t__texto.col-12.col-md-10.col-lg-10.mb-0
         p.mb-0 La comunicación es un proceso mediante el cual las personas intercambian información, ideas, emociones, experiencias y conocimientos con el propósito de generar entendimiento y fortalecer las relaciones humanas. Este proceso es fundamental en los proyectos agropecuarios comunitarios, ya que facilita la participación, la coordinación de acciones y la construcción colectiva de soluciones dentro del territorio. Una comunicación efectiva contribuye al fortalecimiento organizativo, la convivencia comunitaria y el desarrollo de procesos participativos. Para que la comunicación cumpla adecuadamente su función, es necesario aplicar principios que orienten el intercambio de información de manera clara, respetuosa y comprensible.
 
     p.mb-5(data-aos="zoom-in-right") Entre los principios fundamentales de la comunicación se encuentran:
@@ -50,19 +50,19 @@
     .bloque-slider(data-aos="zoom-in-left")
       .bloque-slider__contenido
         SlyderA(tipo="a").tarjeta.tarjeta--blanca.p-4.mb-0
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
             .col-10.col-lg-10.mb-3.mb-lg-0
               h5.mb-4 Claridad en el mensaje
               p.mb-3 Se basa en transmitir la información de forma sencilla, precisa y comprensible para evitar confusiones o interpretaciones incorrectas. Un mensaje claro facilita el entendimiento entre las personas y mejora la efectividad de la comunicación.
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
             .col-10.col-lg-10.mb-3.mb-lg-0
               h5.mb-2 Coherencia 
               p.mb-0 Implica que las acciones, comportamientos y actitudes correspondan con el mensaje transmitido. La coherencia fortalece la credibilidad, la confianza y la transparencia en los procesos comunicativos.
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
             .col-10.col-lg-10.mb-3.mb-lg-0
               h5.mb-2 Respeto hacia los interlocutores
               p.mb-0 Reconocer y valorar las opiniones, ideas y diferencias de las demás personas. El respeto favorece el diálogo, la convivencia y la participación dentro de los espacios comunitarios.
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
             .col-10.col-lg-10.mb-3.mb-lg-0
               h5.mb-2 Adaptación del mensaje al contexto
               p.mb-0 Consiste en ajustar el lenguaje, la forma de comunicación y los contenidos según las características culturales, sociales y educativas de las personas o comunidades a las que se dirige el mensaje. Esta adaptación facilita la comprensión y fortalece la inclusión en los procesos comunicativos.
@@ -230,7 +230,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_21.png', class="img-fluid")
       .col-12.col-lg-9
@@ -240,8 +240,8 @@
         p.mb-0(data-aos="zoom-in-right") Entre las principales técnicas de oratoria se encuentran:
 
     .tarjeta.tarjeta--fondo-img-2.py-5.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
-      .tarjeta.tarjeta--blanca.py-5.p-4.mb-0
-        LineaTiempoC.color-acento-botones(text-small).mb-0
+      .tarjeta.tarjeta--blanca.py-5.p-2.mb-0
+        LineaTiempoC.color-acento-botones.mb-0
           .row.justify-content-center.align-items-center(titulo="Organización del discurso")
             .col-10.mb-0
               p.mb-0 Se debe estructurar las ideas de manera lógica y ordenada antes de realizar una intervención pública. Un discurso organizado generalmente incluye una introducción, un desarrollo del tema y una conclusión, facilitando la comprensión del mensaje por parte del público.
@@ -391,7 +391,7 @@
     .bloque-texto-t.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema3/img_34.png')
-      .bloque-texto-t__texto.col-10.mb-0
+      .bloque-texto-t__texto.col-12.col-md-10.col-lg-10.mb-0
         p.mb-0 La transmisión de conocimiento en los procesos comunitarios y agropecuarios constituye una estrategia fundamental para fortalecer las capacidades de las comunidades, promover la participación y facilitar el aprendizaje colectivo. Este proceso busca compartir saberes, experiencias y prácticas de manera comprensible y pertinente para las personas y grupos del territorio.
 
     .row.justify-content-center.align-items-center.mb-4
@@ -465,31 +465,35 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-8.order-2.order-lg-1
-        p.mb-4(data-aos="zoom-in-right") En los procesos comunitarios y organizativos, el manejo adecuado del lenguaje corporal y verbal favorece:
-          .tarjeta.color-primario-10.p-4.rounded-4.mb-3.h-100.d-flex.align-items-center(data-aos="zoom-in-right")  
-            .row.justify-content-center.align-items-start.mb-0
-              .col-12.col-lg-10.col-xl-9.mb-3
-                ul.lista-ul.mb-0
-                  li
-                    i.lista-ul__vineta 
-                    span La confianza entre los participantes.
-                  li
-                    i.lista-ul__vineta 
-                    span La comprensión de los mensajes.
-                  li
-                    i.lista-ul__vineta 
-                    span La participación comunitaria.
-                  li
-                    i.lista-ul__vineta 
-                    span El liderazgo y la motivación.
-                  li
-                    i.lista-ul__vineta 
-                    span La resolución de conflictos y la concertación de acuerdos.
-              .col-3.col-lg-2.col-xl-3.mb-3.mb-lg-0(data-aos="zoom-in-left")
-                figure.mb-0
-                  img(src='@/assets/curso/tema3/img_39.svg', class="img-fluid")
+        p.mb-3(data-aos="zoom-in-right") En los procesos comunitarios y organizativos, el manejo adecuado del lenguaje corporal y verbal favorece:
+        .tarjeta.color-primario-5.py-4.p-5.rounded-3.mb-3.col-12.col-lg-12(data-aos="zoom-in-right")
+          .row.justify-content-center.align-items-center.mb-0
+            .col-12.col-lg-10.order-2.order-lg-1.mb-3.mb-lg-0
+              ul.lista-ul.mb-0
+                li
+                  i.lista-ul__vineta 
+                  span La confianza entre los participantes. 
+                li
+                  i.lista-ul__vineta 
+                  span La comprensión de los mensajes. 
+                li
+                  i.lista-ul__vineta 
+                  span La participación comunitaria. 
+                li
+                  i.lista-ul__vineta 
+                  span El liderazgo y la motivación. 
+                li
+                  i.lista-ul__vineta 
+                  span Articulada con la normatividad vigente. 
+                li
+                  i.lista-ul__vineta 
+                  span La resolución de conflictos y la concertación de acuerdos.
+            .col-4.col-lg-2.order-2.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+              figure.me-5.me-lg-0
+                img(src='@/assets/curso/tema3/img_39.svg', class="img-fluid").me-5.me-lg-0
+          
+        p.mb-3(data-aos="zoom-in-right") Además, es importante que exista coherencia entre el lenguaje verbal y el corporal, ya que esto fortalece la credibilidad y la transparencia en la comunicación. Cuando las palabras y las acciones transmiten el mismo mensaje, se generan relaciones más sólidas y procesos comunicativos más efectivos.
 
-        p.mb-0(data-aos="zoom-in-right") Además, es importante que exista coherencia entre el lenguaje verbal y el corporal, ya que esto fortalece la credibilidad y la transparencia en la comunicación. Cuando las palabras y las acciones transmiten el mismo mensaje, se generan relaciones más sólidas y procesos comunicativos más efectivos.
       .col-12.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_40.png', class="img-fluid")

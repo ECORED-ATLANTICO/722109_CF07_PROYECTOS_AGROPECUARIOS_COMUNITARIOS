@@ -75,23 +75,23 @@
     .bloque-slider(data-aos="zoom-in-left")
       .bloque-slider__contenido
         SlyderA(tipo="a").tarjeta.tarjeta--blanca.p-4.mb-0
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
             .col-10.col-lg-10.mb-3.mb-lg-0
               h5.mb-4 Riesgos sociales
               p.mb-3 Los riesgos sociales afectan la convivencia, la participación y las relaciones comunitarias debido a conflictos, baja participación, problemas de liderazgo o comunicación. Estos riesgos pueden generar desorganización y retrasos, por lo que es necesario fortalecer el diálogo y la organización comunitaria.
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
             .col-10.col-lg-10.mb-3.mb-lg-0
               h5.mb-4 Riesgos ambientales
               p.mb-3 Los riesgos ambientales incluyen fenómenos naturales y situaciones que afectan los recursos naturales, como sequías, inundaciones y contaminación. Estos riesgos impactan la producción agropecuaria y la seguridad alimentaria, por lo que requieren prácticas sostenibles y medidas de prevención ambiental.
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
             .col-10.col-lg-10.mb-3.mb-lg-0
               h5.mb-4 Riesgos económicos
               p.mb-3 Los riesgos económicos afectan la sostenibilidad de los proyectos debido a problemas financieros, aumento de costos o dificultades de comercialización. Para reducirlos, es fundamental realizar planificación financiera, gestionar adecuadamente los recursos y fortalecer la diversificación productiva comunitaria.
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
             .col-10.col-lg-10.mb-3.mb-lg-0
               h5.mb-4 Riesgos técnicos
               p.mb-3 Afectan la ejecución de proyectos por fallas en tecnologías, infraestructura o prácticas agropecuarias. Para prevenirlos, es necesario fortalecer la capacitación, la asistencia técnica y las capacidades comunitarias en los procesos productivos y organizativos.
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-0
             .col-10.col-lg-10.mb-3.mb-lg-0
               h5.mb-4 Riesgos institucionales
               p.mb-3 Se relacionan con factores administrativos, normativos o de gestión que pueden afectar el desarrollo de los proyectos. Entre ellos se encuentran cambios en políticas públicas, falta de apoyo institucional, incumplimiento de acuerdos o limitada articulación entre entidades y organizaciones.
@@ -108,7 +108,7 @@
     .bloque-texto-t.justify-content-center.align-items-center.mb-1(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema4/img_11.png')
-      .bloque-texto-t__texto.col-10.mb-0
+      .bloque-texto-t__texto.col-12.col-md-10.col-lg-10.mb-0
         p.mb-0 El protocolo de atención de riesgos es un conjunto de procedimientos, acciones y medidas organizadas que permiten responder de manera adecuada frente a situaciones que puedan afectar el desarrollo de un proyecto agropecuario comunitario, la seguridad de las personas o los recursos del territorio. Su finalidad es orientar la actuación de los participantes ante posibles emergencias, amenazas o situaciones de riesgo, garantizando respuestas oportunas, coordinadas y efectivas. En los proyectos comunitarios, los protocolos de atención son herramientas fundamentales para prevenir daños, reducir impactos negativos y fortalecer la capacidad de respuesta de las comunidades frente a diferentes tipos de riesgos sociales, ambientales, económicos o técnicos. Además, contribuyen a proteger la integridad de las personas y asegurar la continuidad de las actividades del proyecto.
 
     p.mb-4(data-aos="zoom-in-right") Un protocolo de atención generalmente incluye las siguientes etapas:

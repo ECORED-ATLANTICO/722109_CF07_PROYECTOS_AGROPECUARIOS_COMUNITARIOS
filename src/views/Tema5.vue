@@ -10,7 +10,7 @@
     .bloque-texto-t.justify-content-center.align-items-center.mb-1(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema5/img_1.png')
-      .bloque-texto-t__texto.col-10.mb-0
+      .bloque-texto-t__texto.col-12.col-md-10.col-lg-10.mb-0
         p.mb-0  La gestión de la información es un proceso fundamental en los proyectos agropecuarios comunitarios, ya que permite organizar, registrar, analizar y comunicar datos relacionados con las actividades, recursos y resultados del proyecto. Una adecuada gestión de la información facilita la toma de decisiones, el seguimiento de procesos y la evaluación de los avances alcanzados.
 
     .row.justify-content-center.align-items-center.mb-0
@@ -44,8 +44,8 @@
         p.mb-0(data-aos="zoom-in-right") Entre las principales funciones de la gestión de la información se encuentran:
 
     .tarjeta.tarjeta--fondo-img-2.py-5.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
-      .tarjeta.tarjeta--blanca.py-5.p-4.mb-0
-        LineaTiempoC.color-acento-botones(text-small).mb-0
+      .tarjeta.tarjeta--blanca.py-5.p-2.mb-0
+        LineaTiempoC.color-acento-botones.mb-0
           .row.justify-content-center.align-items-center(titulo="Recopilación de datos")
             .col-10.mb-0
               p.mb-0 consiste en obtener información relacionada con actividades productivas, recursos, participación comunitaria, resultados y demás aspectos del proyecto.

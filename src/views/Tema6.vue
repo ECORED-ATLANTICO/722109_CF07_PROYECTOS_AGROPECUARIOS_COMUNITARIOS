@@ -50,9 +50,9 @@
             th.col-auto.col-lg-3 Beneficios
         tbody
           tr
-            td Pausas activas
-            td Son descansos cortos realizados durante la jornada laboral para disminuir la fatiga física y mental.
-            td 
+            td.text-start Pausas activas
+            td.text-start Son descansos cortos realizados durante la jornada laboral para disminuir la fatiga física y mental.
+            td.text-start 
               ul.lista-ul.mb-0
                 li
                   i.lista-ul__vineta 
@@ -66,7 +66,7 @@
                 li
                   i.lista-ul__vineta 
                   span Relajación muscular
-            td 
+            td.text-start 
               ul.lista-ul.mb-0
                 li
                   i.lista-ul__vineta 
@@ -78,9 +78,9 @@
                   i.lista-ul__vineta 
                   span Previene lesiones osteomusculares
           tr
-            td Higiene postural
-            td Conjunto de prácticas orientadas a mantener posturas adecuadas durante las actividades laborales.
-            td 
+            td.text-start Higiene postural
+            td.text-start Conjunto de prácticas orientadas a mantener posturas adecuadas durante las actividades laborales.
+            td.text-start 
               ul.lista-ul.mb-0
                 li
                   i.lista-ul__vineta 
@@ -94,7 +94,7 @@
                 li
                   i.lista-ul__vineta 
                   span Usar herramientas adecuadas.
-            td 
+            td.text-start 
               ul.lista-ul.mb-0
                 li
                   i.lista-ul__vineta 
@@ -106,9 +106,9 @@
                   i.lista-ul__vineta 
                   span Mejora el bienestar laboral.
           tr
-            td Elementos de protección personal (EPP)
-            td Dispositivos y prendas utilizados para proteger al trabajador frente a riesgos laborales.
-            td 
+            td.text-start Elementos de protección personal (EPP)
+            td.text-start Dispositivos y prendas utilizados para proteger al trabajador frente a riesgos laborales.
+            td.text-start 
               ul.lista-ul.mb-0
                 li
                   i.lista-ul__vineta 
@@ -125,7 +125,7 @@
                 li
                   i.lista-ul__vineta 
                   span Protección solar
-            td 
+            td.text-start 
               ul.lista-ul.mb-0
                 li
                   i.lista-ul__vineta 

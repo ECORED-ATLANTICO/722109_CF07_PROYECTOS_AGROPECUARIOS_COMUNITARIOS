@@ -311,7 +311,10 @@
     position: relative
     background-color: $white
     padding: 1rem
-    transform: translateY(-30px)
+    transform: translateY(-0px)
+
+    @media (min-width: $bp-min-md)
+      transform: translateY(-50px)
 
     @media (min-width: $bp-min-lg)
       transform: translateY(-70px)
