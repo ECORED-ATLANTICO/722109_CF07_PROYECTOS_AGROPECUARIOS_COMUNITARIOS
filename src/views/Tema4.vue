@@ -117,7 +117,6 @@
       h5 Figura 2.
       |    Etapas del protocolo de atención de riesgos
     figure(data-aos="flip-left").mb-0
-      figcaption Nota. SENA, (2026).
       img(src='@/assets/curso/tema4/img_12.svg', class="img-fluid d-none d-lg-block", alt="La figura describe las etapas del protocolo deAtención de riesgos, la cual está compuestapor cinco módulos conectados:  identificación del riesgo, la evaluación del riesgo, la notificación, la implementación de medidas de respuesta y por último el seguimiento y evaluación. La secuencia indica el proceso continuo de reconocer riesgos, analizarlos, comunicar la situación, aplicar medidas de control y realizar seguimiento para mejorar la gestión del riesgo.").mb-3
       img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid d-block d-lg-none", alt="La figura describe las etapas del protocolo deAtención de riesgos, la cual está compuestapor cinco módulos conectados:  identificación del riesgo, la evaluación del riesgo, la notificación, la implementación de medidas de respuesta y por último el seguimiento y evaluación. La secuencia indica el proceso continuo de reconocer riesgos, analizarlos, comunicar la situación, aplicar medidas de control y realizar seguimiento para mejorar la gestión del riesgo.").mb-3
       figcaption Nota. SENA, (2026).

@@ -48,19 +48,19 @@
         LineaTiempoC.color-acento-botones.mb-0
           .row.justify-content-center.align-items-center(titulo="Recopilación de datos")
             .col-10.mb-0
-              p.mb-0 consiste en obtener información relacionada con actividades productivas, recursos, participación comunitaria, resultados y demás aspectos del proyecto.
+              p.mb-0 Consiste en obtener información relacionada con actividades productivas, recursos, participación comunitaria, resultados y demás aspectos del proyecto.
           .row.justify-content-center.align-items-center(titulo="Organización y almacenamiento")
             .col-10.mb-0
-              p.mb-0 implica clasificar y conservar la información en formatos físicos o digitales que permitan su consulta y actualización de manera ordenada.
+              p.mb-0 Implica clasificar y conservar la información en formatos físicos o digitales que permitan su consulta y actualización de manera ordenada.
           .row.justify-content-center.align-items-center(titulo="Análisis de información")
             .col-10.mb-0
-              p.mb-0 permite interpretar los datos recopilados para identificar avances, problemáticas, necesidades y oportunidades de mejora en el desarrollo del proyecto.
+              p.mb-0 Permite interpretar los datos recopilados para identificar avances, problemáticas, necesidades y oportunidades de mejora en el desarrollo del proyecto.
           .row.justify-content-center.align-items-center(titulo="Comunicación y divulgación")
             .col-10.mb-0
-              p.mb-0 facilita compartir información con la comunidad, organizaciones e instituciones mediante informes, reportes y otros mecanismos de socialización.
+              p.mb-0 Facilita compartir información con la comunidad, organizaciones e instituciones mediante informes, reportes y otros mecanismos de socialización.
           .row.justify-content-center.align-items-center(titulo="Apoyo a la toma de decisiones")
             .col-10.mb-0
-              p.mb-0 la información organizada y actualizada permite tomar decisiones más acertadas y oportunas para el desarrollo de las actividades comunitarias y productivas.
+              p.mb-0 La información organizada y actualizada permite tomar decisiones más acertadas y oportunas para el desarrollo de las actividades comunitarias y productivas.
 
     Separador
 

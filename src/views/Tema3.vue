@@ -377,7 +377,7 @@
           div(titulo="Entrevista abierta")
             p.mb-0 Se desarrolla mediante una conversación libre en la que el entrevistado puede expresar sus ideas, experiencias y opiniones con mayor libertad. El entrevistador orienta el diálogo, pero las preguntas no siguen una estructura rígida. Esta modalidad favorece la comprensión de percepciones, vivencias y conocimientos comunitarios.
           div(titulo="Entrevista grupal")
-            p.mb-0 Se realiza con varias personas al mismo tiempo, permitiendo recoger opiniones, experiencias y propuestas de manera colectiva. Este tipo de entrevista favorece la participación comunitaria, el intercambio de ideas y la construcción conjunta de información
+            p.mb-0 Se realiza con varias personas al mismo tiempo, permitiendo recoger opiniones, experiencias y propuestas de manera colectiva. Este tipo de entrevista favorece la participación comunitaria, el intercambio de ideas y la construcción conjunta de información.
       .col-12.col-md-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
         figure
           img(src='@/assets/curso/tema3/img_33.png', class="img-fluid")
@@ -482,9 +482,6 @@
                 li
                   i.lista-ul__vineta 
                   span El liderazgo y la motivación. 
-                li
-                  i.lista-ul__vineta 
-                  span Articulada con la normatividad vigente. 
                 li
                   i.lista-ul__vineta 
                   span La resolución de conflictos y la concertación de acuerdos.

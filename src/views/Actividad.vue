@@ -24,7 +24,7 @@ export default {
         '<b> Objetivo:</b> evaluar los conocimientos adquiridos por los aprendices sobre gestión comunitaria, técnicas de negociación, comunicación comunitaria, manejo de riesgos, gestión de la información, seguridad y salud en el trabajo y gestión ambiental, aplicados a proyectos agropecuarios con enfoque territorial y diferencial.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
