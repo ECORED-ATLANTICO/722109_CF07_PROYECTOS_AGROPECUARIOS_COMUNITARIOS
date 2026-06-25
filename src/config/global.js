@@ -208,13 +208,8 @@ export default {
         subMenu: [
           {
             numero: '6.1',
-            titulo: 'Seguridad y salud en el trabajo',
+            titulo: 'Generalidades y normatividad',
             hash: 't_6_1',
-          },
-          {
-            numero: '6.2',
-            titulo: 'Gestión ambiental',
-            hash: 't_6_2',
           },
         ],
       },
@@ -391,7 +386,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
-          centro: 'Centro Agroturistico - Regional Santander',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre ',
