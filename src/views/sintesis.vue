@@ -22,7 +22,7 @@
         figure
           img(src="@/assets/curso/sintesis/sintesis.svg", alt="La figura presenta la estructura del componente “Gestión comunitaria, comunicación y manejo de riesgos en proyectos agropecuarios”, organizado en seis temas principales:  gestión comunitaria con concertación, desarrollo de componentes y enfoque diferencial; técnicas de negociación con tipos, métodos, criterios y escucha activa; comunicación con principios, canales, oratoria, entrevistas y divulgación; ruta de atención de riesgos con indicadores, tipos de riesgos y protocolos; gestión de la información con registros, diligenciamiento de documentos e informes; y seguridad y salud en el trabajo junto con gestión ambiental, abordando prevención, protección y sostenibilidad en proyectos agropecuarios comunitarios.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Síntesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
           .anexo__texto

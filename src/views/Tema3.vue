@@ -502,10 +502,10 @@
             figure.mb-0
               img(src='@/assets/curso/tema2/img_25.png', alt='Equipo de grabación de audio').img-fluid
           .bloque-audio__contenido
-            p.bloque-audio__etiqueta.mb-2 XXXXXX
+            p.bloque-audio__etiqueta.mb-2 ¿Sabías que? A continuación, lo invitamos al siguiente pódcast.
             TarjetaAudio.color-acento-botones.mb-0(
-              texto="<h5 class='bloque-audio__titulo-player mb-0'>XXXXXX</h5>"
-              :audio="require('@/assets/curso/tema2/img_25.png')"
+              texto="<h5 class='bloque-audio__titulo-player mb-0'>Comunicar para transformar: Estrategias de comunicación en proyectos agropecuarios comunitarios</h5>"
+              :audio="require('@/assets/curso/podcast/podcast_2.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = true"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
