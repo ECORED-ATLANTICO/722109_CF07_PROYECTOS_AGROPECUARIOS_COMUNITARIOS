@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Seguridad y salud en el trabajo y la gestión ambiental
+      h1 Seguridad y salud en el trabajo  
 
     .bloque-texto-g.color-acento-contenido-10.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
       .bloque-texto-g__img(
@@ -47,27 +47,27 @@
               ul.lista-ul.mb-0
                 li
                   i.lista-ul__vineta 
-                  span Ejercicios de estiramiento
+                  span Ejercicios de estiramiento.
                 li
                   i.lista-ul__vineta 
-                  span Movilidad articular
+                  span Movilidad articular.
                 li
                   i.lista-ul__vineta 
-                  span Duración de 5 a 10 minutos
+                  span Duración de 5 a 10 minutos.
                 li
                   i.lista-ul__vineta 
-                  span Relajación muscular
+                  span Relajación muscular.
             td.text-start 
               ul.lista-ul.mb-0
                 li
                   i.lista-ul__vineta 
-                  span Mejora la circulación
+                  span Mejora la circulación.
                 li
                   i.lista-ul__vineta 
-                  span Reduce el estrés
+                  span Reduce el estrés.
                 li
                   i.lista-ul__vineta 
-                  span Previene lesiones osteomusculares
+                  span Previene lesiones osteomusculares.
           tr
             td.text-start Higiene postural
             td.text-start Conjunto de prácticas orientadas a mantener posturas adecuadas durante las actividades laborales.
@@ -78,7 +78,7 @@
                   span Mantener la espalda recta.
                 li
                   i.lista-ul__vineta 
-                  span Flexionar rodillas al cargar objetos
+                  span Flexionar rodillas al cargar objetos.
                 li
                   i.lista-ul__vineta 
                   span Cambiar de postura frecuentemente.
@@ -103,19 +103,19 @@
               ul.lista-ul.mb-0
                 li
                   i.lista-ul__vineta 
-                  span Guantes
+                  span Guantes.
                 li
                   i.lista-ul__vineta 
-                  span Botas de seguridad
+                  span Botas de seguridad.
                 li
                   i.lista-ul__vineta 
-                  span Gafas protectoras
+                  span Gafas protectoras.
                 li
                   i.lista-ul__vineta 
-                  span Tapabocas o mascarillas
+                  span Tapabocas o mascarillas.
                 li
                   i.lista-ul__vineta 
-                  span Protección solar
+                  span Protección solar.
             td.text-start 
               ul.lista-ul.mb-0
                 li

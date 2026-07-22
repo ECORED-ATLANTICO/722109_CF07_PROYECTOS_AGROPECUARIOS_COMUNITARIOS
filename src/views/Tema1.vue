@@ -85,7 +85,7 @@
     p.mb-5(data-aos="zoom-in-right") Dentro de las principales estrategias para el desarrollo de componentes se encuentran las siguientes:
 
     .tarjeta.tarjeta--fondo-img-2.py-5.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
-      .tarjeta.tarjeta--blanca.py-5.p-2.mb-0
+      .tarjeta.tarjeta--blanca.py-5.p-4.mb-0
         LineaTiempoC.color-acento-botones.mb-0
           .row.justify-content-center.align-items-center.text-small(titulo="Fortalecimiento de capacidades ")
             .col-10.mb-0
@@ -96,7 +96,7 @@
           .row.justify-content-center.align-items-center.text-small(titulo="Gestión de recursos")
             .col-10.mb-0
               p.mb-0 Son las acciones orientadas a identificar, administrar y optimizar recursos humanos, económicos, materiales y tecnológicos necesarios para el desarrollo de los proyectos. Una adecuada gestión de recursos contribuye a mejorar la eficiencia, garantizar la continuidad de las actividades y fortalecer la sostenibilidad de las iniciativas comunitarias.
-          .row.justify-content-center.align-items-center(titulo="Monitoreo permanente del proyecto")
+          .row.justify-content-center.align-items-center.text-small(titulo="Monitoreo permanente del proyecto")
             .col-10.mb-0
               p.mb-0 Realiza seguimiento continuo a las actividades, metas y resultados del proyecto para verificar su cumplimiento e identificar posibles dificultades o riesgos. El monitoreo permite tomar decisiones oportunas, implementar acciones correctivas y mejorar el desempeño de los componentes desarrollados.
 

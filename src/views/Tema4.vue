@@ -117,8 +117,8 @@
       h5 Figura 2.
       |    Etapas del protocolo de atención de riesgos
     figure(data-aos="flip-left").mb-0
-      img(src='@/assets/curso/tema4/img_12.svg', class="img-fluid d-none d-lg-block", alt="La figura describe las etapas del protocolo deAtención de riesgos, la cual está compuestapor cinco módulos conectados:  identificación del riesgo, la evaluación del riesgo, la notificación, la implementación de medidas de respuesta y por último el seguimiento y evaluación. La secuencia indica el proceso continuo de reconocer riesgos, analizarlos, comunicar la situación, aplicar medidas de control y realizar seguimiento para mejorar la gestión del riesgo.").mb-3
-      img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid d-block d-lg-none", alt="La figura describe las etapas del protocolo deAtención de riesgos, la cual está compuestapor cinco módulos conectados:  identificación del riesgo, la evaluación del riesgo, la notificación, la implementación de medidas de respuesta y por último el seguimiento y evaluación. La secuencia indica el proceso continuo de reconocer riesgos, analizarlos, comunicar la situación, aplicar medidas de control y realizar seguimiento para mejorar la gestión del riesgo.").mb-3
+      img(src='@/assets/curso/tema4/img_12.svg', class="img-fluid d-none d-lg-block", alt="La figura describe las etapas del protocolo de Atención de riesgos, la cual está compuesta por cinco módulos conectados:  identificación del riesgo, la evaluación del riesgo, la notificación, la implementación de medidas de respuesta y por último el seguimiento y evaluación. La secuencia indica el proceso continuo de reconocer riesgos, analizarlos, comunicar la situación, aplicar medidas de control y realizar seguimiento para mejorar la gestión del riesgo.").mb-3
+      img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid d-block d-lg-none", alt="La figura describe las etapas del protocolo de Atención de riesgos, la cual está compuesta por cinco módulos conectados:  identificación del riesgo, la evaluación del riesgo, la notificación, la implementación de medidas de respuesta y por último el seguimiento y evaluación. La secuencia indica el proceso continuo de reconocer riesgos, analizarlos, comunicar la situación, aplicar medidas de control y realizar seguimiento para mejorar la gestión del riesgo.").mb-3
       figcaption Nota. SENA, (2026).
 
     Separador
@@ -149,7 +149,7 @@
           div(titulo="Uso obligatorio de EPP")
             p.mb-0 Comprende la utilización de equipos como guantes, botas, gafas, tapabocas, cascos, protectores auditivos y ropa adecuada según el tipo de actividad desarrollada. Estos elementos ayudan a prevenir lesiones y proteger la salud de los trabajadores y participantes.
           div(titulo="Normas de seguridad")
-            p.mb-0 Las normas de seguridad en el manejo de herramientas y maquinaria Incluyen procedimientos para el uso correcto, mantenimiento y almacenamiento de herramientas, equipos y maquinaria agropecuaria. Estas normas buscan prevenir accidentes y garantizar un manejo seguro de los recursos tecnológicos.
+            p.mb-0 Las normas de seguridad en el manejo de herramientas y maquinaria incluyen procedimientos para el uso correcto, mantenimiento y almacenamiento de herramientas, equipos y maquinaria agropecuaria. Estas normas buscan prevenir accidentes y garantizar un manejo seguro de los recursos tecnológicos.
           div(titulo="Procedimientos de evacuación")
             p.mb-0 En el caso de emergencias establecen las acciones que deben seguirse ante situaciones de peligro como incendios, inundaciones, deslizamientos, accidentes o emergencias naturales. Estos procedimientos permiten actuar de manera rápida y organizada para proteger la vida de las personas.
           div(titulo="Planes de contingencia")
