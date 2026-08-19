@@ -374,7 +374,7 @@ export default {
     },
     {
       referencia:
-        'Tristancho, C. (2025). <em>Seguimiento de proyectos: qué es y cómo hacerlo</em>. ProjectManager.',
+        'Tristancho, C. (2025). <em>Seguimiento de proyectos: guía completa</em>. ProjectManager.',
       link: 'https://www.projectmanager.com/es/seguimiento-de-proyectos',
     },
   ],
